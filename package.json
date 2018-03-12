@@ -35,7 +35,7 @@
     "commander": "^2.9.0",
     "link-check": "^4.0.0",
     "markdown-link-extractor": "^1.1.0",
-    "request": "^2.76.0",
+    "request": "^2.85.0",
     "lodash": "^4.16.4"
   },
   "devDependencies": {
