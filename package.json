@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/tcort/markdown-link-check#readme",
   "dependencies": {
-    "async": "^2.1.2",
+    "async": "^3.0.1",
     "chalk": "^2.4.2",
     "commander": "^2.9.0",
     "link-check": "^4.4.4",
